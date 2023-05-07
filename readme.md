@@ -46,7 +46,7 @@ For the purpose of this exercise, we will be using the [`spotify-web-api-node` n
 
 The **Spotify** API will need a `clientId` and `clientSecret` in order to give us permission to make requests and get some data back. To get `clientId` and `clientSecret`, we have to register our app on the official Spotify Developers website (you won't be charged for this, and no credit card information will be required). Let's follow these steps:
 
-1. Navigate to [Spotify Developers](https://developer.spotify.com/my-applications/#!/).
+1. Navigate to [Spotify Developers]https://(developer.spotify.com/my-applications/#!/).
 2. Click on the "Log In" button. If you do not have an account, you will be asked to create one, it´s free :wink: .
 3. After logging in, click on the **Create an App** button.
 
